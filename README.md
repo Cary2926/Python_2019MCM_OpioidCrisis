@@ -10,7 +10,7 @@
 - **Code:** 19 MCM C题的代码——包括模型实现和可视化；
 - **Figure:** 19 MCM C题的可视化结果；
 - **Cause Analysis and Solutions of Opioid Crisis.zip:** 2019 MCM C题的 latex 项目；
-- **Cause Analysis and Solutions of Opioid Crisis.pdf:** 2019 MCM C题的 latex 项目。
+- **Cause Analysis and Solutions of Opioid Crisis.pdf:** 2019 MCM C题的最终report。
 
 
 
