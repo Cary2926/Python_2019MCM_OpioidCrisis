@@ -38,10 +38,10 @@
 
 ## Thanks
 
-<center>
+<p align="center">
 	<strong>
 		### 感谢熬通宵的自己、陪我熬通宵的队友、和在默默在背后支持我的人 ###
 	</strong>
-</center>
+</p>
 
 
