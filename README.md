@@ -1,17 +1,16 @@
 # Python_2019MCM_OpioidCrisis
 
-> 2019美赛repo，选的C题——用NFLIS给的10~17年五州各个县的阿片类药物检出量和人口结构找出泛滥危机的起因和解决方案。
+> 2019 美赛 repo，选的C题——用 NFLIS 给的 10~17 年五州各个县的阿片类药物检出量和人口结构找出泛滥危机的起因和解决方案。
 
 
 
 ## Files
 
 - **README.md**
-- **Reference:** 参考资料，包括17、18的O奖论文和19的问题；
-- **Code:** 19MCM C题的代码——包括模型实现和可视化；
-- **Figure:** 19MCM C题的可视化结果；
-- **Cause Analysis and Solutions of Opioid Crisis.zip:** 2019MCM C题的 latex 项目；
-- **Cause Analysis and Solutions of Opioid Crisis.pdf:** 2019MCM C题的 latex 项目。
+- **Code:** 19 MCM C题的代码——包括模型实现和可视化；
+- **Figure:** 19 MCM C题的可视化结果；
+- **Cause Analysis and Solutions of Opioid Crisis.zip:** 2019 MCM C题的 latex 项目；
+- **Cause Analysis and Solutions of Opioid Crisis.pdf:** 2019 MCM C题的 latex 项目。
 
 
 
@@ -42,7 +41,7 @@
 <center>
 	<strong>
 		### 感谢熬通宵的自己、陪我熬通宵的队友、和在默默在背后支持我的人 ###
-	<strong>
-<center>
+	</strong>
+</center>
 
 
