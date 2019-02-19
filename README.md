@@ -18,7 +18,7 @@
 
 ### 背景
 
-美国的[阿类药物滥用](https://www.douban.com/note/643780635/)带来的[阿类药物危机](https://www.cnbeta.com/articles/tech/640475.htm)。
+美国[阿类药物滥用](https://www.douban.com/note/643780635/)带来的[阿类药物危机](https://www.cnbeta.com/articles/tech/640475.htm)。
 
 ### 框架
 
