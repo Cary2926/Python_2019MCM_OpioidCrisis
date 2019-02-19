@@ -24,7 +24,7 @@
 
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fzoqcf19osj30qo0f00vr.jpg)
 
-### 原因
+### 原因 Part I & II
 
 - **Part I 内因:** 人口结构带来的问题，高危人群；
 - **Part II 外因:** 周围进化模式相似的县所带来的影响。
