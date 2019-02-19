@@ -24,12 +24,12 @@
 
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fzoqcf19osj30qo0f00vr.jpg)
 
-### Part I & II: 原因 
+### Task I & II: 原因 
 
 - **Part I 内因:** 人口结构带来的问题，高危人群；
 - **Part II 外因:** 周围进化模式相似的县所带来的影响。
 
-### Part III: 策略 
+### Task III: 策略 
 
 - **内部**: 医疗机构注意对某些特殊人群的药品使用量；
 - **外部**: 加大对药品泛滥地区周边的流通管制。
